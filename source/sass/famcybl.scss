@@ -1,0 +1,38 @@
+//Variables and Functions
+@import 'variables';
+
+//Base and layout
+@import 'base';
+
+//Colors
+@import 'colors';
+//Components(Button,card,navbar,etc)
+@import 'components/card';
+
+//Utilities(Margin,Padding,Opacity,etc)
+
+/* button{
+    color: #fff;
+    border: 0;
+    background: $primary;
+    border-radius: $base-border-radius;
+    padding: $base-padding;
+}
+.error{
+    color:$error;
+    border-color: $error;
+    border-style: solid;
+    margin: $base-margin;
+    padding: $base-padding;
+    border-radius: $base-border-radius;
+    border-width: $base-border-thickness;
+}
+.notification{
+    color: $secondary;
+    border-color: $secondary;
+    border-style: solid;
+    margin: $base-margin;
+    padding: $base-padding;
+    border-radius: $base-border-radius;
+    border-width: $base-border-thickness;
+} */
